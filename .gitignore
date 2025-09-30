@@ -1,0 +1,27 @@
+﻿# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Modeller (büyük dosyalar)
+*.pt
+*.pth
+*.h5
+*.onnx
+*.tflite
+*.pb
+
+# Büyük veri klasörleri
+data/
+dataset/
+datasets/
+images/
+videos/
+outputs/
+results/
+runs/
+checkpoints/
+models/
+
+# Arşivler
+*.zip
+*.rar
+*.7z
