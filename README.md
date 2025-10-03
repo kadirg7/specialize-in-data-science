@@ -1,4 +1,4 @@
-# Specialize in Data Science
+# Machine Learning & Deep Learning Projects (22 Total)
 
 This repository contains various machine learning and deep learning projects developed during the AI Camp.  
 Each folder represents a different topic area.
